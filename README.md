@@ -2,7 +2,7 @@
 This is the offical Github repo of paper 'DrLLM: Prompt-Enhanced Distributed Denial-of-Service Resistance Method with Large Language Models'.  
 Author: Zhenyu Yin*, Shang Liu, Guangyuan Xu.  
 
-If you have any questions, please create a issue or feel free to email: liushang221@mails.ucas.ac.cn
+![Overview](./figs/Overview.png)
 
 # Where to apply the API keys
 
@@ -36,7 +36,7 @@ Too long to show it, see the prompt example at [prompts](./prompts.md).
     ```
 
 # Cite
-If you find our paper/code is useful, please cite our paper.
+If you have any questions, please create a issue or feel free to email liushang221@mails.ucas.ac.cn and if you find our paper/code is useful, please cite our paper.
 ```
 @misc{yin2024drllmpromptenhanceddistributeddenialofservice,
       title={DrLLM: Prompt-Enhanced Distributed Denial-of-Service Resistance Method with Large Language Models}, 
