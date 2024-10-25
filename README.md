@@ -1,6 +1,6 @@
 # DrLLM
 This is the offical Github repo of paper 'DrLLM: Prompt-Enhanced Distributed Denial-of-Service Resistance Method with Large Language Models'.  
-Author: Zhenyu Yin, Shang Liu, Guangyuan Xu.  
+Author: Zhenyu Yin*, Shang Liu, Guangyuan Xu.  
 
 If you have any questions, please create a issue or feel free to email: liushang221@mails.ucas.ac.cn
 
