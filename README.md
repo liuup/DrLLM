@@ -8,22 +8,19 @@ If you have any questions, please create a issue or feel free to email: liushang
 
 1. OpenAI  
 Follow the https://platform.openai.com/docs/overview  
-For Chinese users, we recommend you to apply the third-party API keys.
+For Chinese users, we recommend you to apply the third-platform API keys to ensure the network stable.
 
 2. Meta Llama  
-Follow the https://dashscope.console.aliyun.com/overview, A.K.A. Dashscope灵积
+Follow the https://dashscope.console.aliyun.com/overview, A.K.A. Dashscope.
 
-2. Alibaba Qwen  
-Follow the https://dashscope.console.aliyun.com/overview, A.K.A. Dashscope灵积
+1. Alibaba Qwen  
+Follow the https://dashscope.console.aliyun.com/overview, A.K.A. Dashscope.
 
-3. DeepSeek  
+1. DeepSeek  
 Follow the https://www.deepseek.com/
 
 # Core Prompt Exmaples
-1. Knowledge Embedding Prompt  
-TBD
-1. Token Embedding  
-TBD
+Too long to show it, see the prompt example at [prompts](./prompts.md).
 
 # Run the code
 1. Clone this repo  
