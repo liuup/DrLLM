@@ -28,12 +28,10 @@ Too long to show it, see the prompt example at [prompts](./prompts.md).
     git clone https://github.com/liuup/DrLLM
     ```
 2. Apply the API keys as mentioned above.
-3. Run the code  
-    ```
-    python --status 0 \
-        --url https://api.xxx.com \
-        --key ky-xxxxxxxxxx
-    ```
+3. Concat multiple datasets -> [1_concat.ipynb](./1_concat.ipynb)
+4. Role Reasoning by LLMs -> [2_role_reasoning.ipynb](./2_role_reasoning.ipynb)
+5. Clean the output -> [3_clean.ipynb](./3_clean.ipynb)
+
 
 # Cite
 If you have any questions, please create a issue or feel free to email liushang221@mails.ucas.ac.cn and if you find our paper/code is useful, please cite our paper.
